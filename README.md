@@ -1,2 +1,2 @@
 # variadic-cpp
-demostration of using variadic templates
+demonstration of using variadic templates
