@@ -1,3 +1,4 @@
+CXX := clang++-5.0
 CXXINCFLAGS := -std=c++1z -I /home/maran/eclipse/boost_1_62_0 #-Werror=narrowing #-O3
 CXXFLAGS := -Wall -g $(CXXINCFLAGS)
 #CXXDEFS := -DDEBUG
